@@ -1,0 +1,15 @@
+{
+  "name": "sass-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass with-import.scss with-import.css && sass with-use.scss with-use.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.5"
+  }
+}

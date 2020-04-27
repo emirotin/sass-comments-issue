@@ -1,0 +1,7 @@
+@mixin some-mixin() {
+  font-weight: bold;
+}
+
+.some-class {
+  @include some-mixin();
+}
